@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "653114583017",
+    "project_id": "exact-rider",
+    "storage_bucket": "exact-rider.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653114583017:android:b76b6e7e4514725f4d0d78",
+        "android_client_info": {
+          "package_name": "com.exact.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653114583017-79ds4bj83risvot9ntc1451qi5gmi9np.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoRyv29q4-JgtoIbrAY6tPCf8FWebINVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653114583017-79ds4bj83risvot9ntc1451qi5gmi9np.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653114583017:android:175288daa0fda4d54d0d78",
+        "android_client_info": {
+          "package_name": "com.exact.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653114583017-79ds4bj83risvot9ntc1451qi5gmi9np.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoRyv29q4-JgtoIbrAY6tPCf8FWebINVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653114583017-79ds4bj83risvot9ntc1451qi5gmi9np.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
